@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "MC-101 Notes"
-permalink: /notes
+permalink: /about/notes
 ---
 # MC-101 notes
 
